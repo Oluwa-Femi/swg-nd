@@ -4,4 +4,9 @@ Docs review
 # Swagger revision
 Node.js REST API Using Express and Swagger
 
-#
+# Features
+- Login
+- Register
+- Products
+
+
