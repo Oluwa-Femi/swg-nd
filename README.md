@@ -9,4 +9,10 @@ Node.js REST API Using Express and Swagger
 - Register
 - Products
 
-
+# Technologies
+- NodeJs
+- MongoDB with Mongoose
+- TypeScript
+- ExpressJs
+- Zod validation
+- Swagger
