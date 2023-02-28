@@ -2,7 +2,7 @@ import mongoose from "mongoose";
 import { customAlphabet } from "nanoid";
 import { UserDocument } from "./user.model";
 
-const nanoid = customAlphabet("abcdefghijklmnopqrstuvwxyz0123456789", 10);
+const nanoid = customAlphabet('1234567890abcdef', 5);
 
 export interface ProductInput {
   user: UserDocument["_id"];
